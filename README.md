@@ -43,7 +43,7 @@ Preporucena konfiguracija za setovanje Linux Kali-a jeste 2gb rama (4 je preporu
 
 Ako imate problem prilikom setovanja 64bit sistema Linuxa, tj. ako vam nudi mogucnost instalacije 32 jedino, morate otici u vas BIOS u CPU Configuration i enable Virtualization. To je korisno iz razloga sto vam omogucuje da Linux iskoristi vise Cores, a ne samo jedan sto mu omogucuje 32bit sistem i onemogucuje vise cores.
 
-<img src="..\slika git">
+
 
 <hr>
 
