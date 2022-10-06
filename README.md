@@ -28,7 +28,8 @@ Kolekcija materijala (predavanja i vjezbi) za predmet Informacijska sigurnost
 
 **Materijali**
 
-Knjiga koju je prof. Kenan Sanjta preporucio vezano za operativne sisteme autora Joshua TenenBaum
+Knjiga koju je prof. Kenan Sanjta preporucio vezano za operativne sisteme autora Joshua Tenenbaum
+<br>
 [Operation systems Design and Implementation 3. izdanje](https://www.amazon.com/Operating-Systems-Design-Implementation-3rd/dp/0131429388)
 
 
