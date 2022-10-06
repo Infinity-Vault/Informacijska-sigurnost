@@ -36,10 +36,12 @@ Potrebno je instalirati VirtualBox za pracenje nastave kako bi mogli instalirat 
 
 [Ako ste MAC user, mozete skinut sljedecu virtualnu masinu](https://www.parallels.com/)
 
-[Linux Kali (Skidate installer images) i naravno birate bitni sustav koji vama odgovara, da li 32 ili 64, ako ste MAC user onda ARM64](https://www.kali.org/)
+[Linux Kali (skidate installer images) i naravno birate bitni sustav koji vama odgovara, da li 32 ili 64, ako ste MAC user onda ARM64](https://www.kali.org/)
 
 Linux Kali je zasnovan na Debian, tako da moze i on posluzit na virtualnoj masini.
 Preporucena konfiguracija za setovanje Linux Kali-a jeste 2gb rama (4 je preporuceno), 20gb+ free prostora na vasem storage-u (40 je preporuceno), CPU 2 cores (3+ je preporuceno). Ovo sve mozete setovat prilikom gledanja settings-a na VirtualBox-u
+
+Ako imate problem prilikom setovanja 64bit sistema Linuxa, tj. ako vam nudi mogucnost instalacije 32 jedino, morate otici u vas BIOS u CPU Configuration i enable Virtualization. To je korisno iz razloga sto vam omogucuje da Linux iskoristi vise Cores, a ne samo jedan sto mu omogucuje 32bit sistem i onemogucuje vise cores.
 
 <hr>
 
