@@ -1,6 +1,6 @@
 # Informacijska-sigurnost
 
-Kolekcija materijala (predavanja i vjezbi) za predmet Informacijska sigurnost
+![](https://komarev.com/ghpvc/?username=Informacijska-sigurnost&label=Broj+posjeta:)
 
 **Predavanja**
 
