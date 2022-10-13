@@ -18,6 +18,8 @@ Kolekcija materijala (predavanja i vjezbi) za predmet Informacijska sigurnost
 
 [Vjezbe 1- Kenan Sanjta 6.10.2022 (Instalacija Linux-a i Virtualne masine) i objasnjenje pojma <b>CIA Triad</b>](https://www.techtarget.com/whatis/definition/Confidentiality-integrity-and-availability-CIA#:~:text=In%20this%20context%2C%20confidentiality%20is,the%20information%20by%20authorized%20people.)
 
+[Vjezba 2- 13.10.2022 (Osnovne linux komande, i upoznavanje sa penetracijskim testom)](http://poincare.matf.bg.ac.rs/~maricm/komande.html)(http://sigurnost.zemris.fer.hr/ns/wireless/2007_drvoderic/pen_test_bm.htm)
+
 
 <hr>
 
